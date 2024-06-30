@@ -44,6 +44,8 @@ python3 -m pip install --upgrade pip #Actualizamos el pip
 
 #11. Investigar ¿Qué es el pip y porque lo actualizamos?
 
+pip es el sistema de gestión de paquetes de Python, utilizado para instalar y administrar paquetes de software escritos en Python. Cuando hablamos de "actualizar pip", nos referimos a actualizar el propio sistema de gestión de paquetes pip a la última versión disponible
+
 #12. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
 
 #13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
